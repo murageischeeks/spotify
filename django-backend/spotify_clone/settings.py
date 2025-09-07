@@ -71,11 +71,14 @@ WSGI_APPLICATION = "spotify_clone.wsgi.application"
 
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
-
 DATABASES = {
     "default": {
-        "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
+        'ENGINE': 'django.db.backends.postgresql', # ONLY ONE ENGINE KEY
+        'NAME': 'Spotify_Clone',           # The database name you created
+        'USER': 'spotify_user',            # The username you created
+        'PASSWORD': 'spotifiyproject1',    # The password you set for that user
+        'HOST': 'localhost',               # The server where PostgreSQL is running
+        'PORT': '5432',                    # The default PostgreSQL port
     }
 }
 
