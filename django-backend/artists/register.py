@@ -1,0 +1,1 @@
+#Register the artist with their role and permissions
