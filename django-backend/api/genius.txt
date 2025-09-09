@@ -1,0 +1,2 @@
+client_id: HLAG4UySglZIbg7_rsQxCYLg5bwgkBeGsvgCp01tRfI2Gt4y0eYFeFgCAv_joK_0
+client_secret: zc8K5oDAzJj-nl7PeIymo2OpZozeSasirbTMSAi07gQ_glcCoEgidbgF8VOWHXifDBvDpkJ6xLDx9zHx6lA5iQ
