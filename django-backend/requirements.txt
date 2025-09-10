@@ -1,4 +1,11 @@
-asgiref==3.9.1
-Django==5.2.6
-sqlparse==0.5.3
-tzdata==2025.2
+Django==4.2.7
+djangorestframework==3.14.0
+psycopg2-binary==2.9.9
+Pillow==10.0.1
+
+# Audio Processing Dependencies
+pydub==0.25.1
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.24.3
+scipy==1.10.1
